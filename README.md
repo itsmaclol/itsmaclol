@@ -2,7 +2,7 @@
 # Hi, I'm Mac! 👋
 
 
-👩‍💻 I'm currently working on [Doki Doki Anemo Club!](https://github.com/TheKeenCaptain/Doki-Doki-Anemo-Club)
+👩‍💻 I'm currently working on [Doki Doki Anemo Club!](https://github.com/itsmaclol/DDAC)
 
 🧠 I'm currently learning [Python](https://www.python.org/)
 
