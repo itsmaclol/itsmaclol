@@ -9,6 +9,7 @@
 
 😄 Pronouns He/Him/They
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmaclol)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 Links
 [![my_portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mac.planks.ml)
