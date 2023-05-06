@@ -2,9 +2,9 @@
 # Hi, I'm Mac! 👋
 
 
-👩‍💻 I'm currently working on [Doki Doki Anemo Club!](https://github.com/itsmaclol/DDAC)
+👩‍💻 I'm currently working on [macscript](https://github.com/itsmaclol/macscript)
 
-🧠 I'm currently learning [Python](https://www.python.org/)
+🧠 I'm currently learning [bash](https://www.gnu.org/software/bash/)
 
 
 😄 Pronouns He/Him/They
@@ -15,3 +15,4 @@
 [![my_portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mac.planks.ml)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsmaclol)
 
+b
