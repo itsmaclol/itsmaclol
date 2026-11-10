@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1f6feb&height=170&text=Heya,%20I'm%20Mac&fontColor=ffffff&fontSize=44&fontAlignY=42&desc=I%20make%20Unix-based%20computers%20do%20funny%20things&descSize=16&descAlignY=66" alt="Heya, I'm Mac. I make Unix-based computers do funny things." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1e3a8a&height=170&text=Heya,%20I'm%20Mac&fontColor=ffffff&fontSize=44&fontAlignY=42&desc=I%20make%20Unix-based%20computers%20do%20funny%20things&descSize=16&descAlignY=66" alt="Heya, I'm Mac. I make Unix-based computers do funny things." />
 
 <p align="center">
   <a href="https://itsmac.eu.org">itsmac.eu.org</a>
@@ -14,13 +14,13 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/itsmaclol/oc-efi-maker"><b>oc-efi-maker</b></a><br />
-      Generates OpenCore EFI files so you can install macOS on a PC.<br /><br />
+      Builds an OpenCore EFI so you can install macOS on a PC.<br /><br />
       <img src="https://img.shields.io/badge/Shell-21262d?style=flat-square" alt="Shell" />
       <img src="https://img.shields.io/github/stars/itsmaclol/oc-efi-maker?style=flat-square&label=%E2%98%85&labelColor=21262d&color=21262d" alt="Stars" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/itsmaclol/macscript"><b>macscript</b></a><br />
-      Installs palera1n/checkra1n and bootstraps Procursus/APT on macOS.<br /><br />
+      Sets up palera1n/checkra1n and Procursus/APT on macOS.<br /><br />
       <img src="https://img.shields.io/badge/Shell-21262d?style=flat-square" alt="Shell" />
       <img src="https://img.shields.io/github/stars/itsmaclol/macscript?style=flat-square&label=%E2%98%85&labelColor=21262d&color=21262d" alt="Stars" />
     </td>
