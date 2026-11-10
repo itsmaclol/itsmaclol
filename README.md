@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1e3a8a&height=170&text=Heya,%20I'm%20Mac&fontColor=ffffff&fontSize=44&fontAlignY=42&desc=I%20make%20Unix-based%20computers%20do%20funny%20things&descSize=16&descAlignY=66" alt="Heya, I'm Mac. I make Unix-based computers do funny things." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1e3a8a&height=170&text=Heya,%20I'm%20Mac&fontColor=ffffff&fontSize=44&fontAlignY=42&desc=I%20make%20Unix-based%20computers%20do%20funny%20things&descSize=16&descAlignY=66&animation=none" alt="Heya, I'm Mac. I make Unix-based computers do funny things." />
 
 <p align="center">
   <a href="https://itsmac.eu.org">itsmac.eu.org</a>
