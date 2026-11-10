@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Heya,%20I'm%20Mac&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Heya, I'm Mac" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Heya,%20I'm%20Mac&fontSize=56&fontColor=ffffff&fontAlignY=38" alt="Heya, I'm Mac" />
 
 <a href="https://itsmac.eu.org"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=640&lines=i+make+unix+based+computers+do+funny+things;because+of+course+i+do;hackintoshes%2C+jailbreaks%2C+kernels+and+scripts" alt="i make unix based computers do funny things because of course i do" /></a>
 
